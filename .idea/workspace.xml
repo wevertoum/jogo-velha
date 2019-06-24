@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32bc9758-2f01-4cf5-952d-441013429797" name="Default Changelist" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/META-INF/swconcorrente-2018-1.kotlin_module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/Runner$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/Runner$StuffPrinter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/Runner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/jogodavelha/ui/controller/JogoDaVelhaController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/jogodavelha/ui/model/BoardMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/jogodavelha/ui/model/JogoDaVelha.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/jogodavelha/ui/model/MatchMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/jogodavelha/ui/model/PlayerSign.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/jogodavelha/ui/view/JogoDaVelhaTabView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/mainPainel/ui/controller/MainPanelController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/mainPainel/ui/view/MainPainelListView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/com/intellij/uiDesigner/core/AbstractLayout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/com/intellij/uiDesigner/core/DimensionInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/com/intellij/uiDesigner/core/GridConstraints.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/com/intellij/uiDesigner/core/GridLayoutManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/com/intellij/uiDesigner/core/HorizontalInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/com/intellij/uiDesigner/core/LayoutState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/com/intellij/uiDesigner/core/Spacer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/com/intellij/uiDesigner/core/SupportCode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/com/intellij/uiDesigner/core/Util.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/swconcorrente-2018-1/com/intellij/uiDesigner/core/VerticalInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/.idea/kotlinc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/.idea/libraries/KotlinJavaRuntime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/Runner$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/Runner$StuffPrinter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/Runner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/decriptador/ui/auxpkg/HintTextFieldUI.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/decriptador/ui/controller/DecriptadorController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/decriptador/ui/model/Cifra.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/decriptador/ui/model/CifraDeCezar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/decriptador/ui/view/DecriptadorConsoleView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/jogodavelha/ui/controller/JogoDaVelhaController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/jogodavelha/ui/model/BoardMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/jogodavelha/ui/model/JogoDaVelha.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/jogodavelha/ui/model/MatchMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/jogodavelha/ui/model/PlayerSign.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/jogodavelha/ui/view/JogoDaVelhaTabView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/mainPainel/ui/controller/MainPanelController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/br/ufg/inf/swconcorrente/mainPainel/ui/view/MainPainelListView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/com/intellij/uiDesigner/core/AbstractLayout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/com/intellij/uiDesigner/core/DimensionInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/com/intellij/uiDesigner/core/GridConstraints.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/com/intellij/uiDesigner/core/GridLayoutManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/com/intellij/uiDesigner/core/HorizontalInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/com/intellij/uiDesigner/core/LayoutState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/com/intellij/uiDesigner/core/Spacer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/com/intellij/uiDesigner/core/SupportCode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/com/intellij/uiDesigner/core/Util.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/out/production/swconcorrente-2018-1/com/intellij/uiDesigner/core/VerticalInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/src/br/ufg/inf/swconcorrente/Runner.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/src/br/ufg/inf/swconcorrente/jogodavelha/ui/controller/JogoDaVelhaController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/src/br/ufg/inf/swconcorrente/jogodavelha/ui/model/BoardMap.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/src/br/ufg/inf/swconcorrente/jogodavelha/ui/model/JogoDaVelha.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/src/br/ufg/inf/swconcorrente/jogodavelha/ui/model/MatchMap.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/src/br/ufg/inf/swconcorrente/jogodavelha/ui/model/PlayerSign.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/src/br/ufg/inf/swconcorrente/jogodavelha/ui/view/JogoDaVelhaTabView.form" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/src/br/ufg/inf/swconcorrente/jogodavelha/ui/view/JogoDaVelhaTabView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/src/br/ufg/inf/swconcorrente/mainPainel/ui/controller/MainPanelController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/src/br/ufg/inf/swconcorrente/mainPainel/ui/view/MainPainelListView.form" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/src/br/ufg/inf/swconcorrente/mainPainel/ui/view/MainPainelListView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swconcorrente-2018-1/swconcorrente-2018-1.iml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations/Runner.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Runner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="BoardMap.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/jogodavelha/ui/model/BoardMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>btnDecript</find>
+      <find>a</find>
+      <find>aluno</find>
+      <find>s</find>
+      <find>swcobn</find>
+      <find>swcob</find>
+      <find>sw</find>
+      <find>swco</find>
+      <find>swconcor</find>
+      <find>swconcorre</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/jogoVelha-2019</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/jogodavelha/ui/model/PlayerSign.java" />
+        <option value="$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/jogodavelha/ui/model/JogoDaVelha.java" />
+        <option value="$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/jogodavelha/ui/model/MatchMap.java" />
+        <option value="$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/jogodavelha/ui/controller/JogoDaVelhaController.java" />
+        <option value="$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/Runner.java" />
+        <option value="$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/mainPainel/ui/controller/MainPanelController.java" />
+        <option value="$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/mainPainel/ui/view/MainPainelListView.java" />
+        <option value="$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/mainPainel/ui/view/MainPainelListView.form" />
+        <option value="$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/jogodavelha/ui/controller/JogoDaVelhaControllerTest.groovy" />
+        <option value="/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/runConfigurations/Runner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="-11" />
+    <option name="width" value="1922" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jogo-da-velha" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jogoVelha-2019" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jogo-da-velha" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jogoVelha-2019" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jogoVelha" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jogo-da-velha" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jogoVelha-2019" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jogoVelha" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MainPainelListView" />
+              <option name="myItemType" value="com.intellij.uiDesigner.projectView.FormNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jogo-da-velha" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jogoVelha-2019" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jogoVelha" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jogo-da-velha" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jogoVelha-2019" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jogoVelha" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jogo-da-velha" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jogoVelha-2019" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jogoVelha" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jogo-da-velha" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jogoVelha-2019" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jogoVelha" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="br.ufg.inf.jogoVelha.jogodavelha.ui.controller" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Runner">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="br.ufg.inf.jogoVelha.Runner" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="jogoVelha-2019" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Runner" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32bc9758-2f01-4cf5-952d-441013429797" name="Default Changelist" comment="" />
+      <created>1561382354844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561382354844</updated>
+      <workItem from="1561382358879" duration="1362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1362000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-11" width="1922" height="1039" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/jogodavelha/ui/model/PlayerSign.java" />
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/jogodavelha/ui/model/MatchMap.java" />
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/jogodavelha/ui/controller/JogoDaVelhaController.java" />
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/Runner.java" />
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/mainPainel/ui/controller/MainPanelController.java" />
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/jogoVelha.iml" />
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/mainPainel/ui/view/MainPainelListView.java" />
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/jogodavelha/ui/view/JogoDaVelhaTabView.java" />
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/decriptador/ui/controller/DecriptadorController.java" />
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/mainPainel/ui/controller/MainPanelController.java" />
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/mainPainel/ui/view/MainPainelListView.form" />
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/mainPainel/ui/view/MainPainelListView.java" />
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/jogodavelha/ui/view/JogoDaVelhaTabView.form" />
+    <entry file="file://$PROJECT_DIR$/jogo-da-velha/jogoVelha.iml" />
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/jogodavelha/ui/controller/JogoDaVelhaControllerTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/jogodavelha/ui/model/MatchMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="53" column="32" lean-forward="false" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/jogodavelha/ui/model/JogoDaVelha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5580">
+          <caret line="310" column="19" lean-forward="false" selection-start-line="310" selection-start-column="19" selection-end-line="310" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/jogodavelha/ui/model/PlayerSign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/jogodavelha/ui/controller/JogoDaVelhaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/jogoVelha.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/out/production/jogoVelha-2019/br/ufg/inf/jogoVelha/Runner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#1640#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/jogodavelha/ui/view/JogoDaVelhaTabView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jogoVelha-2019/src/br/ufg/inf/jogoVelha/jogodavelha/ui/model/BoardMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jogoVelha-2019</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
